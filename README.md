@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Hanbee 👋 
 
-- 🏫 I'm a student at KAIST, double majoring in CS&ID.
-- 🌱 Currently, I'm learning Unity VR programming.
+- 🏫 I'm a master's student at KAIST.
+- 🌱 Currently, I'm mainly developing VR interactive systems in Unity.
 - 🤩 I’m interested in VR/AR, computer vision, web development and computer graphics.
-- 🌈 Fun fact: I love drawing, playing the piano, and traveling!
-- 😻 Check out my website! ([hanbee-hada.web.app](https://hanbee-hada.web.app))
+- 🌈 Fun fact: I love writing, playing the piano, and traveling!
 
 ### Programming Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
